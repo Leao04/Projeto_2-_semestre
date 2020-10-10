@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <b-navbar type="dark" variant="dark">
+      <b-navbar type="light" variant="dark">
         <b-navbar-nav>
           <NuxtLink to="/">Início</NuxtLink>
           <div class="menu1">
